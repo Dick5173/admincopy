@@ -2,6 +2,7 @@
     div {{ count }}
       div test
         span add_feature1
+        span add_feature2
 </template>
 
 <script>
