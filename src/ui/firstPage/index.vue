@@ -4,7 +4,8 @@
         span add_feature1
         span add_feature2
         span add_feature3 
-        span add_feature2_new develop hotfix test
+        span add_feature2_new develop hotfix test 
+        span release hotfix 1.01
 </template>
 
 <script>
