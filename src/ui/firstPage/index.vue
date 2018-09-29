@@ -1,6 +1,7 @@
 <template lang="pug">
     div {{ count }}
       div test
+        span add_feature1
 </template>
 
 <script>
