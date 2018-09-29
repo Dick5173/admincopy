@@ -1,5 +1,6 @@
 <template lang="pug">
     div {{ count }}
+      div test
 </template>
 
 <script>
