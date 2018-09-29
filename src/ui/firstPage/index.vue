@@ -3,8 +3,8 @@
       div test
         span add_feature1
         span add_feature2
-        span add_feature3
-        span add_feature1_nnnnew
+        span add_feature3 
+        span add_feature2_new 
 </template>
 
 <script>
